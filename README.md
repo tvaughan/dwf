@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/tvaughan/dwf.svg?branch=master)](https://travis-ci.org/tvaughan/dwf)
+[![Coverage Status](https://img.shields.io/coveralls/tvaughan/dwf.svg)](https://coveralls.io/r/tvaughan/dwf)
+
 # Dwf
 
 TODO: Write a gem description
