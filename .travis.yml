@@ -1,4 +1,4 @@
 language: ruby
 script:
-  - bundle exec rake rspec
+  - bundle exec rake spec
   - bundle exec rake rubocop
